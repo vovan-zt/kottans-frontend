@@ -1,7 +1,7 @@
 # kottans-frontend
 kottans-frontend 
 
-# H1 Hello, my name is Volodymyr.
+# Hello, my name is Volodymyr.
 
 **This course is quite interesting. He improved my skills even more. Let's move on :)**
 
