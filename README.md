@@ -4,7 +4,7 @@ kottans-frontend
 
 Hello, my name is Volodymyr.
 
-This course is quite interesting. 
+This course is quite interesting. He improved my skills even more. Let's move on :)
 
 
 
