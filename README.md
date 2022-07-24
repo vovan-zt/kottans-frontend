@@ -32,6 +32,15 @@ kottans-frontend
 
 
 
+## Responsive Web Design
+
+**Repeated the basics of flexbox and grid**
+
+![Image alt](https://github.com/vovan-zt/kottans-frontend/blob/main/img/flexbox.png)
+
+![Image alt](https://github.com/vovan-zt/kottans-frontend/blob/main/img/grid.png)
+
+
 
 
 
