@@ -10,12 +10,27 @@ kottans-frontend
 
 ![Image alt](https://github.com/vovan-zt/kottans-frontend/blob/main/img/1.png)
 
+<br>
 [2.  learngitbranching.js.org](https://learngitbranching.js.org/)
 ![Image alt](https://github.com/vovan-zt/kottans-frontend/blob/main/img/2.png)
 ![Image alt](https://github.com/vovan-zt/kottans-frontend/blob/main/img/3.png)
 
+<br>
 [3. Linux, Command Line, HTTP Tools](https://linuxsurvival.com/linux-tutorial-end-of-module-4/)
 ![Image alt](https://github.com/vovan-zt/kottans-frontend/blob/main/img/linux.png)
+
+<br>
+
+## Intro to HTML and CSS
+
+**It was very boring
+
+![Image alt](https://github.com/vovan-zt/kottans-frontend/blob/main/img/html+css.png)
+
+
+
+
+
 
 
 
