@@ -24,7 +24,7 @@ kottans-frontend
 ## Intro to HTML and CSS
 [Intro to HTML and CSS](https://www.codecademy.com/)
 
-**It was very boring
+**It was very boring**
 
 ![Image alt](https://github.com/vovan-zt/kottans-frontend/blob/main/img/html+css.png)
 
