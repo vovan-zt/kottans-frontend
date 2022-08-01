@@ -47,7 +47,7 @@
 
 ## JS Basics
 
-** It was interesting, I will definitely do the rest of the tasks as I progress through the course **
+**It was interesting, I will definitely do the rest of the tasks as I progress through the course**
 
 ![Image alt](https://github.com/vovan-zt/kottans-frontend/blob/main/img/js-basic1.png)  
 
