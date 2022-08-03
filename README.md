@@ -47,13 +47,25 @@
 
 ## JS Basics
 
-** It was interesting, I will definitely do the rest of the tasks as I progress through the course **
+**It was interesting, I will definitely do the rest of the tasks as I progress through the course**
 
 ![Image alt](https://github.com/vovan-zt/kottans-frontend/blob/main/img/js-basic1.png)  
 
 ![Image alt](https://github.com/vovan-zt/kottans-frontend/blob/main/img/js-basic2.png)  
 
 ![Image alt](https://github.com/vovan-zt/kottans-frontend/blob/main/img/js-basic3.png)  
+
+
+## DOM
+
+**This task was easier for me than the previous one. But there are still many gaps and more practice is needed.**
+
+![Image alt](https://github.com/vovan-zt/kottans-frontend/blob/main/img/js-basic4.png)  
+
+[https://github.com/vovan-zt/Action_menu.git](https://github.com/vovan-zt/Action_menu.git)    
+
+[https://vovan-zt.github.io/Action_menu/](https://vovan-zt.github.io/Action_menu/)  
+
 
 
 
