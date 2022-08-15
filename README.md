@@ -70,10 +70,9 @@
 
 
  
-## Front-End Basics
+# Front-End Basics
 
-### Intro to HTML and CSS
-
+## Intro to HTML and CSS
 
 [1.Intro to HTML and CSS](https://www.codecademy.com/)
 
@@ -81,7 +80,9 @@
 
 <details><summary>Screenshot</summary>
   <p>
-  ![Screenshot-image-link](https://github.com/vovan-zt/kottans-frontend/blob/main/img/html+css.png)
+
+  ![Screenshot-image-link](./img/html+css.png)
+
   </p>
 </details>
 
@@ -90,9 +91,14 @@
 
 **Repeated the basics of flexbox and grid**
 
-![Image alt](https://github.com/vovan-zt/kottans-frontend/blob/main/img/flexbox.png)
+<details><summary>Screenshot</summary>
+  <p>
 
-![Image alt](https://github.com/vovan-zt/kottans-frontend/blob/main/img/grid.png)
+  ![Screenshot-image-link](./img//flexbox.png)
+  ![Screenshot-image-link](./img/grid.png)
+
+  </p>
+</details>
 
 
 
@@ -108,27 +114,54 @@
 
 **It was interesting, I will definitely do the rest of the tasks as I progress through the course**
 
-![Image alt](https://github.com/vovan-zt/kottans-frontend/blob/main/img/js-basic1.png)  
+<details><summary>Screenshot</summary>
+  <p>
 
-![Image alt](https://github.com/vovan-zt/kottans-frontend/blob/main/img/js-basic2.png)  
+  ![Screenshot-image-link](./img//js-basic1.png)
+  ![Screenshot-image-link](./img/js-basic2.png)
+  ![Screenshot-image-link](./img/js-basic3.png)
 
-![Image alt](https://github.com/vovan-zt/kottans-frontend/blob/main/img/js-basic3.png)  
+  </p>
+</details>
 
 
 ## DOM
 
 **This task was easier for me than the previous one. But there are still many gaps and more practice is needed.**
 
-![Image alt](https://github.com/vovan-zt/kottans-frontend/blob/main/img/js-basic4.png)  
+<details><summary>Screenshot</summary>
+  <p>
+
+  ![Screenshot-image-link](./img//js-basic4.png)
+
+  </p>
+</details>
+
 
 [https://github.com/vovan-zt/Action_menu.git](https://github.com/vovan-zt/Action_menu.git)    
 
 [https://vovan-zt.github.io/Action_menu/](https://vovan-zt.github.io/Action_menu/)  
 
 
+# Advanced Topics
 ## Building a Tiny JS World
 
 [https://vovan-zt.github.io/Action_menu/](https://github.com/vovan-zt/a-tiny-JS-world.git)  
+
+## Object Oriented JS
+
+[codewars.com](https://www.codewars.com/users/VoVaN-zt/badges/large) 
+
+<details><summary>Screenshot</summary>
+  <p>
+
+  ![Screenshot-image-link](./img//codewars.png)
+
+  </p>
+</details>
+
+
+
 
 
 
