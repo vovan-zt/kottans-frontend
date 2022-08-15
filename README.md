@@ -1,30 +1,82 @@
-# kottans-frontend
+# kottans-frontend   [Kottans](https://kottans.org/)
+
+## The repository is dedicated to taking part in [Kottans frontend course](https://github.com/kottans/frontend)
 # Hello, my name is Volodymyr.
 
 **This course is quite interesting. He improved my skills even more. Let's move on :)**
 
-## Introduction to Git and GitHub
+
+ 1. **General**
+    - [x] [Git Basics](#0-git-basics)
+    - [x] [Linux CLI and Networking](#1-linux-cli-and-networking)
+    - [x] [VCS (hello gitty), GitHub and Collaboration](#2-vcs-hello-gitty-github-and-collaboration)
+  
+ 2. **Front-End Basics**
+
+    - [x] [Intro to HTML & CSS](#3-intro-to-html-and-css)
+    - [x] [Responsive Web Design](#5-responsive-web-design)
+    - [x] [HTML & CSS Practice](#6-html-css-practice)
+    - [x] [JavaScript Basics](#7-javascript-basics)
+    - [x] [Document Object Model - practice](#8-document-object-model-practice)
+  
+ 3. **Advanced Topics**
+
+    - [x] [Building a Tiny JS World (pre-OOP) - practice](#9-building-a-tiny-js-world-pre-oop-practice)
+    - [x] [Object oriented JS - practice](#10-object-oriented-js-practice)
+    - [x] [OOP exercise - practice](#11-oop-exercise-practice)
+    - [x] [Offline Web Applications](#12-offline-web-applications)
+    - [x] [Memory pair game — real project!](#13-memory-pair-game-real-project)
+    - [x] [Website Performance Optimization](#14-website-performance-optimization)
+    - [x] [Friends App - real project!](#15-friends-app-real-project)
+
+
+    ## General
 
 [1.Introduction to Git and GitHub](https://learn.udacity.com/courses/ud123)
 
-![Image alt](https://github.com/vovan-zt/kottans-frontend/blob/main/img/1.png)
+  <details><summary>Screenshot</summary>
+  <p>
+
+  ![Screenshot-image-link](https://github.com/vovan-zt/kottans-frontend/blob/main/img/1.png)
+
+  </p>
+  </details>
+
+
 
 [2.learngitbranching.js.org](https://learngitbranching.js.org/)  
-![Image alt](https://github.com/vovan-zt/kottans-frontend/blob/main/img/2.png)  
-![Image alt](https://github.com/vovan-zt/kottans-frontend/blob/main/img/3.png)
+
+ <details><summary>Screenshot</summary>
+  <p>
+
+  ![Screenshot-image-link](https://github.com/vovan-zt/kottans-frontend/blob/main/img/2.png)
+  ![Screenshot-image-link](https://github.com/vovan-zt/kottans-frontend/blob/main/img/3.png)
+  </p>
+  </details>
+
 
 [3.Linux, Command Line, HTTP Tools](https://linuxsurvival.com/linux-tutorial-end-of-module-4/)  
-![Image alt](https://github.com/vovan-zt/kottans-frontend/blob/main/img/linux.png)
+
+<details><summary>Screenshot</summary>
+  <p>
+  ![Screenshot-image-link](https://github.com/vovan-zt/kottans-frontend/blob/main/img/linux.png)
+  </p>
+</details>
+ 
+## Front-End Basics
+
+### Intro to HTML and CSS
 
 
-
-## Intro to HTML and CSS
-[Intro to HTML and CSS](https://www.codecademy.com/)
+[1.Intro to HTML and CSS](https://www.codecademy.com/)
 
 **It was very boring**
 
-![Image alt](https://github.com/vovan-zt/kottans-frontend/blob/main/img/html+css.png)
-
+<details><summary>Screenshot</summary>
+  <p>
+  ![Screenshot-image-link](https://github.com/vovan-zt/kottans-frontend/blob/main/img/html+css.png)
+  </p>
+</details>
 
 
 ## Responsive Web Design
