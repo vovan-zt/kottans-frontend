@@ -187,6 +187,17 @@
 [https://vovan-zt.github.io/Memory-Pair-Game/](https://vovan-zt.github.io/Memory-Pair-Game/) 
 
 
+## Friends App
+
+  **Вid everything in one file, not pretty but it works :)**
+
+[https://github.com/vovan-zt/App_friends](https://github.com/vovan-zt/App_friends)  
+
+[https://vovan-zt.github.io/App_friends/dist/](https://vovan-zt.github.io/App_friends/dist/) 
+
+
+
+
 
 
 
