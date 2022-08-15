@@ -24,9 +24,9 @@
     - [x] [Building a Tiny JS World (pre-OOP) - practice](#9-building-a-tiny-js-world-pre-oop-practice)
     - [x] [Object oriented JS - practice](#10-object-oriented-js-practice)
     - [x] [OOP exercise - practice](#11-oop-exercise-practice)
-    - [x] [Offline Web Applications](#12-offline-web-applications)
+    - [ ] [Offline Web Applications](#12-offline-web-applications)
     - [x] [Memory pair game — real project!](#13-memory-pair-game-real-project)
-    - [x] [Website Performance Optimization](#14-website-performance-optimization)
+    - [ ] [Website Performance Optimization](#14-website-performance-optimization)
     - [x] [Friends App - real project!](#15-friends-app-real-project)
 
 
@@ -148,9 +148,12 @@
 
 [https://vovan-zt.github.io/Action_menu/](https://github.com/vovan-zt/a-tiny-JS-world.git)  
 
+[https://vovan-zt.github.io/a-tiny-JS-world/](https://vovan-zt.github.io/a-tiny-JS-world/) 
+
 ## Object Oriented JS
 
 [codewars.com](https://www.codewars.com/users/VoVaN-zt/badges/large) 
+
 
 <details><summary>Screenshot</summary>
   <p>
@@ -159,6 +162,40 @@
 
   </p>
 </details>
+
+### Classic Arcade Game Clone Project
+**I didn't like this job very much. It was very difficult to start writing something, despite the fact that most of the functionality was ready**
+
+[https://vovan-zt.github.io/kottans-arcade-game/](https://vovan-zt.github.io/kottans-arcade-game/)  
+
+[https://github.com/vovan-zt/kottans-arcade-game/](https://github.com/vovan-zt/kottans-arcade-game) 
+
+
+## OOP exercise - practice
+
+[https://vovan-zt.github.io/Action_menu/](https://github.com/vovan-zt/a-tiny-JS-world.git)  
+
+[https://vovan-zt.github.io/a-tiny-JS-world/](https://vovan-zt.github.io/a-tiny-JS-world/) 
+
+
+## Memory Pair Game
+
+  **Very interesting experience**
+
+[https://github.com/vovan-zt/Memory-Pair-Game](https://github.com/vovan-zt/Memory-Pair-Game)  
+
+[https://vovan-zt.github.io/Memory-Pair-Game/](https://vovan-zt.github.io/Memory-Pair-Game/) 
+
+
+
+
+
+
+
+
+
+
+
 
 
 
