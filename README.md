@@ -189,7 +189,7 @@
 
 ## Friends App
 
-  **Вid everything in one file, not pretty but it works :)**
+  **Did everything in one file, not pretty but it works :)**
 
 [https://github.com/vovan-zt/App_friends](https://github.com/vovan-zt/App_friends)  
 
