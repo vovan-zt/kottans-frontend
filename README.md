@@ -140,7 +140,7 @@
 
 [https://github.com/vovan-zt/Action_menu.git](https://github.com/vovan-zt/Action_menu.git)    
 
-[https://vovan-zt.github.io/Action_menu/](https://vovan-zt.github.io/Action_menu/)  
+[https://vovan-zt.github.io/Action_menu/](https://vovan-zt.github.io/Action_menu/dist)  
 
 
 # Advanced Topics
