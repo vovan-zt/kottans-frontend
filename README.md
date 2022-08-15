@@ -30,38 +30,45 @@
     - [x] [Friends App - real project!](#15-friends-app-real-project)
 
 
-    ## General
-
-[1.Introduction to Git and GitHub](https://learn.udacity.com/courses/ud123)
+    # General
+## Git Basics
+[Introduction to Git and GitHub](https://learn.udacity.com/courses/ud123)
 
   <details><summary>Screenshot</summary>
   <p>
 
-  ![Screenshot-image-link](https://github.com/vovan-zt/kottans-frontend/blob/main/img/1.png)
+  ![Screenshot-image-link](./img/1.png)
 
   </p>
   </details>
 
+## Git Collaboration
 
-
-[2.learngitbranching.js.org](https://learngitbranching.js.org/)  
+[learngitbranching.js.org](https://learngitbranching.js.org/)  
 
  <details><summary>Screenshot</summary>
   <p>
 
-  ![Screenshot-image-link](https://github.com/vovan-zt/kottans-frontend/blob/main/img/2.png)
-  ![Screenshot-image-link](https://github.com/vovan-zt/kottans-frontend/blob/main/img/3.png)
+  ![Screenshot-image-link](./img/2.png)
+  ![Screenshot-image-link](./img/3.png)
+
   </p>
   </details>
 
+## Linux CLI and Networking
 
-[3.Linux, Command Line, HTTP Tools](https://linuxsurvival.com/linux-tutorial-end-of-module-4/)  
+[Linux, Command Line, HTTP Tools](https://linuxsurvival.com/linux-tutorial-end-of-module-4/)  
 
 <details><summary>Screenshot</summary>
   <p>
-  ![Screenshot-image-link](https://github.com/vovan-zt/kottans-frontend/blob/main/img/linux.png)
+
+  ![Screenshot-image-link](./img/linux.png)
+
   </p>
+
 </details>
+
+
  
 ## Front-End Basics
 
