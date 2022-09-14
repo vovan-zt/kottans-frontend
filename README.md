@@ -184,7 +184,7 @@
 
 [https://github.com/vovan-zt/Memory-Pair-Game](https://github.com/vovan-zt/Memory-Pair-Game)  
 
-[https://vovan-zt.github.io/Memory-Pair-Game/](https://vovan-zt.github.io/Memory-Pair-Game/) 
+[https://vovan-zt.github.io/Memory-Pair-Game/dist](https://vovan-zt.github.io/Memory-Pair-Game/dist) 
 
 
 ## Friends App
