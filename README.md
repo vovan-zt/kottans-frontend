@@ -23,10 +23,10 @@
 
     - [x] [Building a Tiny JS World (pre-OOP) - practice](#9-building-a-tiny-js-world-pre-oop-practice)
     - [x] [Object oriented JS - practice](#10-object-oriented-js-practice)
-    - [x] [OOP exercise - practice](#11-oop-exercise-practice)
-    - [ ] [Offline Web Applications](#12-offline-web-applications)
-    - [x] [Memory pair game — real project!](#13-memory-pair-game-real-project)
-    - [ ] [Website Performance Optimization](#14-website-performance-optimization)
+    - [*] [OOP exercise - practice](#11-oop-exercise-practice)
+    - [-] [Offline Web Applications](#12-offline-web-applications)
+    - [*] [Memory pair game — real project!](#13-memory-pair-game-real-project)
+    - [-] [Website Performance Optimization](#14-website-performance-optimization)
     - [x] [Friends App - real project!](#15-friends-app-real-project)
 
 
