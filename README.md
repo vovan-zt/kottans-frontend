@@ -187,7 +187,14 @@
 
 ## Website Performance Optimization
 **I am undergoing training. Need more experience**
- ![Screenshot-image-link](./Website_Performance_Optimization//Website Performance Optimization.png)
+<details><summary>Screenshot</summary>
+  <p>
+
+  ![Screenshot-image-link](./Website_Performance_Optimization//Website Performance Optimization.png)
+
+  </p>
+</details>
+
 
 <details>
 <summary>Remember ...</summary>
