@@ -25,7 +25,7 @@
     - [x] [Object oriented JS - practice](#10-object-oriented-js-practice)
     - [x] [OOP exercise - practice](#11-oop-exercise-practice)
     - [] [Offline Web Applications](#12-offline-web-applications)
-    - [] [Memory pair game — real project!](#13-memory-pair-game-real-project)
+    - [x] [Memory pair game — real project!](#13-memory-pair-game-real-project)
     - [] [Website Performance Optimization](#14-website-performance-optimization)
     - [x] [Friends App - real project!](#15-friends-app-real-project)
 
@@ -44,6 +44,7 @@
 
 ## Git Collaboration
 
+**Almost everything was new to me, used 3-4 git commands before. Need to keep practicing**
 [learngitbranching.js.org](https://learngitbranching.js.org/)  
 
  <details><summary>Screenshot</summary>
@@ -56,6 +57,8 @@
   </details>
 
 ## Linux CLI and Networking
+
+**It seems that he knew something from the commands, but he did not know much. I need to create a cheat sheet for commands**
 
 [Linux, Command Line, HTTP Tools](https://linuxsurvival.com/linux-tutorial-end-of-module-4/)  
 
@@ -76,7 +79,7 @@
 
 [1.Intro to HTML and CSS](https://www.codecademy.com/)
 
-**It was very boring**
+**Before that, I studied html and css, so I was a little bored**
 
 <details><summary>Screenshot</summary>
   <p>
@@ -103,6 +106,8 @@
 
 
 ## HTML і CSS практика: Hooli-style Popup
+
+**It would seem that it should be easy, but why is it so difficult?**
 
 [https://github.com/vovan-zt/popup2022.git](https://github.com/vovan-zt/popup2022.git)  
 
@@ -146,11 +151,15 @@
 # Advanced Topics
 ## Building a Tiny JS World
 
+**Interesting experience**
+
 [https://vovan-zt.github.io/Action_menu/](https://github.com/vovan-zt/a-tiny-JS-world.git)  
 
 [https://vovan-zt.github.io/a-tiny-JS-world/](https://vovan-zt.github.io/a-tiny-JS-world/) 
 
 ## Object Oriented JS
+
+**I didn't like this job very much. It was very difficult to start writing something, despite the fact that most of the functionality was ready**
 
 [codewars.com](https://www.codewars.com/users/VoVaN-zt/badges/large) 
 
@@ -172,6 +181,7 @@
 
 
 ## OOP exercise - practice
+**There are some gaps in the understanding of the classes, but thanks to this project I have raised my level significantly higher**
 
 [https://vovan-zt.github.io/Action_menu/](https://github.com/vovan-zt/a-tiny-JS-world.git)  
 
@@ -180,7 +190,7 @@
 
 ## Memory Pair Game
 
-  **Very interesting experience**
+  **It is interesting to create something and that it still works. My first card game. Additional features may be added in the future.**
 
 [https://github.com/vovan-zt/Memory-Pair-Game](https://github.com/vovan-zt/Memory-Pair-Game)  
 
@@ -189,7 +199,7 @@
 
 ## Friends App
 
-  **Did everything in one file, not pretty but it works :)**
+  **Did everything in one file, not pretty but it works :)It was a little tricky with async functions. It takes more practice to understand them better.**
 
 [https://github.com/vovan-zt/App_friends](https://github.com/vovan-zt/App_friends)  
 
