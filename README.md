@@ -190,7 +190,7 @@
 <details><summary>Screenshot</summary>
   <p>
 
-  ![Screenshot-image-link](./Website_Performance_Optimization//Website Performance Optimization.png)
+  ![Screenshot-image-link](./Website_Performance_Optimization//Website_Performance_Optimization.png)
 
   </p>
 </details>
